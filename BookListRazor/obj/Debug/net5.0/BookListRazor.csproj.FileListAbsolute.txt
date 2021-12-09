@@ -388,3 +388,4 @@ C:\Users\Agustin\source\repos\BookListRazor\BookListRazor\bin\Debug\net5.0\runti
 C:\Users\Agustin\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\index.cshtml.g.cs
 C:\Users\Agustin\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\Agustin\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\Users\Agustin\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Upsert.cshtml.g.cs
